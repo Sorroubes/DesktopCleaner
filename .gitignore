@@ -1,0 +1,25 @@
+# Віртуальне оточення
+.venv/
+venv/
+
+# Кеші та службові файли Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# PyInstaller / збірки
+build/
+dist/
+*.spec
+
+# IDE
+.idea/
+
+# Резервні/тимчасові файли конфігів
+config.json~
+*.tmp
+
+# Інше
+*.bak
